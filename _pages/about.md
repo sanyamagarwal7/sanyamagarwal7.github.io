@@ -18,5 +18,10 @@ Publications
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
 <li>Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. Submitted.</li>
 ---
