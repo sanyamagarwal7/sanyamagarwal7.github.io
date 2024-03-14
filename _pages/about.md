@@ -18,7 +18,5 @@ Publications
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-bibliography: ["references.bib"]
-biblio-style: "apalike"
-link-citations: true
+<li>Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. Submitted.</li>
 ---
