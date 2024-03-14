@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Computer Science at Saarland University advised by [Prof. Markus Bl&auml;ser](https://cc.cs.uni-saarland.de/). My primary research interests lie in exploring the computational aspects in algebra. I am also interested in using software tools for social impact.
+Hi, I'm a Ph.D. student in Computer Science at Saarland University advised by [Prof. Markus Bl&auml;ser](https://cc.cs.uni-saarland.de/). My research interests lie in exploring the computational aspects in algebra. I am also interested in using software tools for social impact.
 
-Previously I completed my M.Sc. in computer science at CMI, advised by [Prof. Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/). Long before that, I obtained a B.Tech. in Mechanical Engineering from IIT Delhi, where I was fortunate enough to be a part of [Axlr8r Formula Racing](https://automobileclub.iitd.ac.in/). 
+Previously I completed my M.Sc. in computer science at CMI, where I worked on [Factorization of sparse polynomials of bounded individual
+degree](https://www.cse.iitk.ac.in/users/nitin/theses/agarwal-2022.pdf) under  [Prof. Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/). Long before that, I obtained a B.Tech. in Mechanical Engineering from IIT Delhi, where I was fortunate enough to be a part of [Axlr8r Formula Racing](https://automobileclub.iitd.ac.in/). 
 
 Publications
 ------
