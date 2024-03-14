@@ -22,8 +22,3 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
-
-Acknowledgement
-------
-This website was forked from [Academic Pages](https://academicpages.github.io/)
-
