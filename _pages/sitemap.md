@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: ""
-permalink: /
+permalink: /sitemap/
 author_profile: true
 ---
