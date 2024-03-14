@@ -1,13 +1,3 @@
----
-ACKNOWLEDGEMENT
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I'm a PhD student in Computer Science at Saarland University advised by Prof. Markus Bl\"aser. Previously I completed my Masters in computer science at CMI, advised by Prof. Nitin Saxena. Long before that, I obtained a B.Tech in Mechanical Engineering from IIT Delhi. My research interests lie in exploring the computational aspects in Algebra.
 
 A data-driven personal website
