@@ -19,4 +19,3 @@ Publications
 {% endif %}
 
 <li>Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. *Submitted*.</li>
----
