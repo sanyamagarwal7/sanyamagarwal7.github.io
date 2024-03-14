@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a PhD student in Computer Science at Saarland University advised by Prof. Markus Bl\"aser. Previously I completed my Masters in computer science at CMI, advised by Prof. Nitin Saxena. Long before that, I obtained a B.Tech in Mechanical Engineering from IIT Delhi. My research interests lie in exploring the computational aspects in Algebra.
+Hi, I'm a PhD student in Computer Science at Saarland University advised by Prof. Markus Bl\"aser. Previously I completed my M.Sc. in computer science at CMI, advised by Prof. Nitin Saxena. Long before that, I obtained a B.Tech. in Mechanical Engineering from IIT Delhi. My research interests lie in exploring the computational aspects in Algebra.
 
 A data-driven personal website
 ======
