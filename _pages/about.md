@@ -18,4 +18,4 @@ Publications
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-* Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. [arXiv](https://arxiv.org/pdf/2404.02912.pdf).
+* Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. ([arXiv](https://arxiv.org/pdf/2404.02912.pdf)).
