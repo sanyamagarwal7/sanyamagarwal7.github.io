@@ -11,6 +11,8 @@ Hi, I'm a Ph.D. student in Computer Science at Saarland University fortunate eno
 
 Previously I completed my M.Sc. in computer science at CMI, where my [thesis](https://www.cse.iitk.ac.in/users/nitin/theses/agarwal-2022.pdf) was on _Factorization of sparse polynomials of bounded individual degree_ under the wonderful guidance of [Prof. Nitin Saxena](https://www.cse.iitk.ac.in/users/nitin/). Long before that, I obtained a B.Tech. in Mechanical Engineering from IIT Delhi, where I was a part of [Axlr8r Formula Racing](https://automobileclub.iitd.ac.in/). 
 
+Outside work, I spend a lot of time either watching or playing football, and I am a massive Liverpool FC fan. I often go running, and enjoy watching cricket (test cricket, in particular) too.
+
 Publications
 ------
 
