@@ -21,3 +21,8 @@ Publications
 {% endif %}
 
 * Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. ([arXiv](https://arxiv.org/pdf/2404.02912.pdf)).
+
+
+Other Work
+------
+* Web scraping a daily hindi newspaper into epub format. [link](https://github.com/sanyamagarwal7/Dainik_Bhaskar_newspaper_in_epub_format.git)
