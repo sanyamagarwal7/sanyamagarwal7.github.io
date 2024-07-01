@@ -22,6 +22,9 @@ Publications
 
 * Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified. _To appear in ICML'24_. ([arXiv version](https://arxiv.org/pdf/2404.02912.pdf))
 
+Teaching
+------
+* Tutor - Complexity Theory (Summer Semester 2024)
 
 Other Work
 ------
