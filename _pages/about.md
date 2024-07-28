@@ -30,4 +30,4 @@ Teaching
 Misc.
 ------
 * Web scraping a daily hindi newspaper into epub format. [link](https://github.com/sanyamagarwal7/Dainik_Bhaskar_newspaper_in_epub_format.git)
-* Some books I really enjoyed reading: _Thinking Fast and Slow_, _India after Gandhi_, _गुनाहों का देवता_, _Behind the Beautiful Forevers_, _The Secret Race_, _To Kill a Mockingbird_, _Good Economics for Hard Times_.
+* Some books I really liked reading: _Thinking Fast and Slow_, _India after Gandhi_, _गुनाहों का देवता_, _Behind the Beautiful Forevers_, _The Secret Race_, _To Kill a Mockingbird_, _Good Economics for Hard Times_.
