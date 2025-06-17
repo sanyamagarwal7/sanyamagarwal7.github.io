@@ -18,7 +18,7 @@ Work
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-* [ICML'25](https://www.arxiv.org/pdf/2506.12020): Broadrick*, O., Agarwal*, S., Van den Broeck#, G., & Bläser#, M. (2025). The Limits of Tractable Marginalization.
+* [ICML'25](https://www.arxiv.org/pdf/2506.12020): Broadrick<sup>*</sup>, O., Agarwal<sup>*</sup>, S., Van den Broeck<sup>#</sup>, G., & Bläser<sup>#</sup>, M. (2025). The Limits of Tractable Marginalization.
 * [ICML'24 (Oral)](https://arxiv.org/pdf/2404.02912.pdf): Agarwal, S., & Bläser, M. (2024). Probability Generating Circuits - Demystified.
 * [Master's Thesis](https://www.cse.iitk.ac.in/users/nitin/theses/agarwal-2022.pdf): Factorization of sparse polynomials of bounded individual degree.
 
