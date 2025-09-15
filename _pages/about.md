@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Computer Science at Saarland University fortunate enough to be advised by [Prof. Markus Bl&auml;ser](https://cc.cs.uni-saarland.de/). My theoretical interests lie in questions about the nature of algebraic objects. I am also interested in working towards making public systems more sustainable and efficient.
+Hi, I'm a Ph.D. student in Computer Science at Saarland University fortunate enough to be advised by [Prof. Markus Bl&auml;ser](https://cc.cs.uni-saarland.de/). My theoretical interests lie in questions about the nature of algebraic objects.
 
 Previously I completed my M.Sc. in computer science at CMI, and a B.Tech. in Mechanical Engineering from IIT Delhi, where I was a part of [Axlr8r Formula Racing](https://automobileclub.iitd.ac.in/). Outside work, I spend a lot of time either watching or playing football, and I am a massive Liverpool FC fan. I also follow the Indian Cricket Team closely, and often go running. I like to read from time to time too.
 
