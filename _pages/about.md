@@ -13,15 +13,15 @@ Previously I completed my M.Sc. in computer science at CMI, and a B.Tech. in Mec
 
 Work
 ------
-The superscript <sup>a</sup> denotes alphabetical ordering of authors.
+The superscript <sup>al</sup> denotes alphabetical ordering of authors.
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-* <sup>a</sup> Agarwal, Bläser, Gupta. [On the Principal Minor Expansion and Complexity of the Symmetrized Determinant](https://arxiv.org/pdf/2604.28019). _Submitted_.
-* <sup>a</sup> Agarwal, Dutta, Pandey, Shukla. [When Hilbert Approximates: A Strong Nullstellensatz for Approximate Polynomial Satisfiability](https://eccc.weizmann.ac.il/report/2026/026/). _To appear in_ Computational Complexity Conference (CCC), 2026.
+* <sup>al</sup> Agarwal, Bläser, Gupta. [On the Principal Minor Expansion and Complexity of the Symmetrized Determinant](https://arxiv.org/pdf/2604.28019). _Submitted_.
+* <sup>al</sup> Agarwal, Dutta, Pandey, Shukla. [When Hilbert Approximates: A Strong Nullstellensatz for Approximate Polynomial Satisfiability](https://eccc.weizmann.ac.il/report/2026/026/). _To appear in_ Computational Complexity Conference (CCC), 2026.
 * Agarwal, Dutta, Bläser. Fast Reconstruction of Mixtures of Bernoulli Product Distributions. _To appear in_ International Conference on Machine Learning (ICML), 2026.
-* (Short Paper) <sup>a</sup> Agarwal, Pandey, Rogovskyy. Immune Cell Pathogen Detection as Memory-Dependent Graph Search Algorithm. _To appear in_ International Conference on Unconventional Computation and Natural Computation (UCNC), 2026.
+* (Short Paper) <sup>al</sup> Agarwal, Pandey, Rogovskyy. Immune Cell Pathogen Detection as Memory-Dependent Graph Search Algorithm. _To appear in_ International Conference on Unconventional Computation and Natural Computation (UCNC), 2026.
 * Broadrick<sup>^</sup>, Agarwal<sup>^</sup>, Van den Broeck<sup>#</sup>, Bläser<sup>#</sup>. [The Limits of Tractable Marginalization](https://www.arxiv.org/pdf/2506.12020). International Conference on Machine Learning (ICML), 2025.
 * Agarwal, Bläser. [Probability Generating Circuits - Demystified](https://arxiv.org/pdf/2404.02912.pdf). International Conference on Machine Learning (ICML), 2024. _Selected for Oral presentation._
 
