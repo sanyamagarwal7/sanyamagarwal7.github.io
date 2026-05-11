@@ -32,4 +32,4 @@ Teaching
 Misc.
 ------
 * Web scraping a daily hindi newspaper into epub format. [link](https://github.com/sanyamagarwal7/Dainik_Bhaskar_newspaper_in_epub_format.git)
-* Some books I really liked reading: [List](https://www.goodreads.com/review/list/59490697-sanyam-agarwal?shelf=will-suggest).
+* [Some books](https://www.goodreads.com/review/list/59490697-sanyam-agarwal?shelf=will-suggest) I really liked reading.
