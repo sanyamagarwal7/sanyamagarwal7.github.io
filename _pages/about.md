@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Ph.D. student in Computer Science at Saarland University fortunate enough to be advised by [Prof. Markus Bl&auml;ser](https://cc.cs.uni-saarland.de/). My theoretical interests lie in questions about the nature of algebraic objects. Recently, I have also become interested in practical algorithms for problems arising in other domains like Earth Sciences, Life Sciences, and Public Systems.
+Hi, I'm a Ph.D. student in Computer Science at Saarland University fortunate enough to be advised by [Prof. Markus Bl&auml;ser](https://cc.cs.uni-saarland.de/). My theoretical interests lie in questions about the nature of algebro-geoemtric objects arising in machine learning, complexity theory, and life sciences.
 
 Previously I completed my M.Sc. in computer science at CMI, and a B.Tech. in Mechanical Engineering from IIT Delhi, where I was a part of [Axlr8r Formula Racing](https://automobileclub.iitd.ac.in/). Outside work, I spend a lot of time either watching or playing football, and I am a massive Liverpool FC fan. I also follow the Indian Cricket Team closely, and often go running.
 
@@ -18,6 +18,7 @@ The superscript <sup>al</sup> denotes alphabetical ordering of authors.
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+* <sup>al</sup> Agarwal, Hari, Pandey, Shukla. [Approximate Polynomial Satisfiability and Integral Closure Membership in the Counting Hierarchy](https://arxiv.org/abs/2610.42138). _Submitted_.
 * <sup>al</sup> Agarwal, Jindal. [Deterministic NC Quadratic Root Counting in Characteristic Two](https://arxiv.org/abs/2609.12669). _Submitted_.
 * <sup>al</sup> Agarwal, Bläser, Gupta. [On the Principal Minor Expansion and Complexity of the Symmetrized Determinant](https://arxiv.org/pdf/2604.28019). ArXiv.
 * <sup>al</sup> Agarwal, Dutta, Pandey, Shukla. [When Hilbert Approximates: A Strong Nullstellensatz for Approximate Polynomial Satisfiability](https://eccc.weizmann.ac.il/report/2026/026/). Computational Complexity Conference (CCC), 2026.
